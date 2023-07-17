@@ -4,8 +4,8 @@
 This project was created by my teammates and I using a functional programming langauge, elm and HTML/CSS/Javascript! Enjoy:) 
 
 ## Gameplay
-- Breakout Game with a twis: Thrilling and exciting heroic experience that where players must devise a game strategy to enhance effectiveness of kills against the elemental monsters while protecting their cities. Players will be rewarded with an indescribable sense of accomplishment when you have successfully kill the monsters and defend their planet.  
-- Zandalore Quest: Explore the vibrant RPG world and destroy the enemies in an exciting 3 vs 3 turn-based board game
+- Breakout Game with a twist: Thrilling and exciting gameplay where players must devise a game strategy to enhance effectiveness of kills against the elemental monsters while protecting their cities. Players will be rewarded with a strong sense of accomplishment when they successfully kill the monsters and defend their planet.  
+- Zandalore Quest: Explore the vibrant RPG world and destroy the enemies in an exciting 3 vs 3 turn-based board game.
 
 ## Installation
 
@@ -15,12 +15,11 @@ You can install `Elm` by downloading the installer with the links below and run 
 [Mac](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg)/
 [Windows](https://github.com/elm/compiler/releases/download/0.19.1/installer-for-windows.exe)
 
-More information can be found in [Official Guide](https://guide.elm-lang.org/install/elm.html), 
+More information can be found in [Official Guide](https://guide.elm-lang.org/install/elm.html).
 
 ## Usage:
 
 ### Website
-- open index.html in the directory 
 - Click the link and select Battle Stars: [Play the game here](https://focs.ji.sjtu.edu.cn/silverfocs/project/2022/p1)
 - Click the link and select Zandalore Quest: [Play the game here](https://focs.ji.sjtu.edu.cn/silverfocs/project/2022/p2)
 
