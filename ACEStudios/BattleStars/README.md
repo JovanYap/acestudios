@@ -21,13 +21,13 @@ Next, run ```elm make src/Main.elm``` to compile it into index.html file.
 Finally, open the index.html file.
 
 ## 2. Feature:
-### Strategic gameplay with Elemental monsters and bullets 
-### Elemental attributes create an addictive gameplay
-### Neon-themed sci-fic graphics
-### Rounded monsters to increase unpredictablity of ball and thrill for players
-### Moving monsters to apply both time and scoring pressure on players
-### Intricately designed scoring and reward system that will incentivize players to beat their high scores 
-### Heroic storyline and fascinating adventure within the game
+- Strategic gameplay with Elemental monsters and bullets 
+- Elemental attributes create an addictive gameplay
+- Neon-themed sci-fic graphics
+- Rounded monsters to increase unpredictablity of ball and thrill for players
+- Moving monsters to apply both time and scoring pressure on players
+- Intricately designed scoring and reward system that will incentivize players to beat their high scores 
+- Heroic storyline and fascinating adventure within the game
 
 
 # Author team: **ACE Studios**
